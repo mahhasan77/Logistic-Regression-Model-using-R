@@ -1,0 +1,2 @@
+# Logistic-Regression-Model-using-R
+In this repository we perform the predictive modelling with the following steps. First, we  choose one of the built-in datasets in R containing at least one binary parameter. Then we  set the binary parameter in that dataset to be the outcome. Then, we standardize all the  predictors and perform feature selection using appropriate approaches. Finally, we train the  binary classifier using logistic regression and evaluate its performance.
